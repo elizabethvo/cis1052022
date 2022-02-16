@@ -1,0 +1,551 @@
+State,Region,Subregion,Population Millions (2014),Health Grade,Poverty Grade,Disease,Disease type,Pathogen,Median Cases per Week,Max Cases per Week
+ALABAMA,South,East South Central,4.849,1,1,Campylobacteriosis,Foodborne,Bacteria,13,24
+ALABAMA,South,East South Central,4.849,1,1,Chlamydia,STD,Bacteria,529,739
+ALABAMA,South,East South Central,4.849,1,1,Giardiasis,Foodborne,Parasite,4,13
+ALABAMA,South,East South Central,4.849,1,1,Gonorrhea,STD,Bacteria,148,222
+ALABAMA,South,East South Central,4.849,1,1,Hepatitis B,Bloodborne,Virus,1,5
+ALABAMA,South,East South Central,4.849,1,1,Pneumococcal disease,Respiratory,Bacteria,6,18
+ALABAMA,South,East South Central,4.849,1,1,Legionellosis,Respiratory,Bacteria,1,3
+ALABAMA,South,East South Central,4.849,1,1,Lyme disease,Tickborne,Bacteria,1,3
+ALABAMA,South,East South Central,4.849,1,1,Pertussis,Respiratory,Bacteria,3,7
+ALABAMA,South,East South Central,4.849,1,1,Salmonellosis,Foodborne,Bacteria,18,47
+ALABAMA,South,East South Central,4.849,1,1,Varicella chickenpox,Respiratory,Virus,2,7
+ALASKA,West,Pacific,0.736,3,5,Campylobacteriosis,Foodborne,Bacteria,2,5
+ALASKA,West,Pacific,0.736,3,5,Chlamydia,STD,Bacteria,103,189
+ALASKA,West,Pacific,0.736,3,5,Giardiasis,Foodborne,Parasite,1,6
+ALASKA,West,Pacific,0.736,3,5,Gonorrhea,STD,Bacteria,21,34
+ALASKA,West,Pacific,0.736,3,5,Hepatitis B,Bloodborne,Virus,0,1
+ALASKA,West,Pacific,0.736,3,5,Pneumococcal disease,Respiratory,Bacteria,2,10
+ALASKA,West,Pacific,0.736,3,5,Legionellosis,Respiratory,Bacteria,0,1
+ALASKA,West,Pacific,0.736,3,5,Lyme disease,Tickborne,Bacteria,0,2
+ALASKA,West,Pacific,0.736,3,5,Pertussis,Respiratory,Bacteria,2,6
+ALASKA,West,Pacific,0.736,3,5,Salmonellosis,Foodborne,Bacteria,2,7
+ALASKA,West,Pacific,0.736,3,5,Varicella chickenpox,Respiratory,Virus,0,4
+ARIZONA,West,Mountain,6.731,3,1,Campylobacteriosis,Foodborne,Bacteria,22,47
+ARIZONA,West,Mountain,6.731,3,1,Chlamydia,STD,Bacteria,630,874
+ARIZONA,West,Mountain,6.731,3,1,Giardiasis,Foodborne,Parasite,3,7
+ARIZONA,West,Mountain,6.731,3,1,Gonorrhea,STD,Bacteria,175,258
+ARIZONA,West,Mountain,6.731,3,1,Hepatitis B,Bloodborne,Virus,0,3
+ARIZONA,West,Mountain,6.731,3,1,Pneumococcal disease,Respiratory,Bacteria,10,37
+ARIZONA,West,Mountain,6.731,3,1,Legionellosis,Respiratory,Bacteria,1,4
+ARIZONA,West,Mountain,6.731,3,1,Lyme disease,Tickborne,Bacteria,0,2
+ARIZONA,West,Mountain,6.731,3,1,Pertussis,Respiratory,Bacteria,6,21
+ARIZONA,West,Mountain,6.731,3,1,Salmonellosis,Foodborne,Bacteria,16,49
+ARIZONA,West,Mountain,6.731,3,1,Varicella chickenpox,Respiratory,Virus,5,18
+ARKANSAS,South,West South Central,2.966,1,1,Campylobacteriosis,Foodborne,Bacteria,8,29
+ARKANSAS,South,West South Central,2.966,1,1,Chlamydia,STD,Bacteria,365,684
+ARKANSAS,South,West South Central,2.966,1,1,Giardiasis,Foodborne,Parasite,2,12
+ARKANSAS,South,West South Central,2.966,1,1,Gonorrhea,STD,Bacteria,110,222
+ARKANSAS,South,West South Central,2.966,1,1,Hepatitis B,Bloodborne,Virus,1,4
+ARKANSAS,South,West South Central,2.966,1,1,Pneumococcal disease,Respiratory,Bacteria,5,24
+ARKANSAS,South,West South Central,2.966,1,1,Legionellosis,Respiratory,Bacteria,0,6
+ARKANSAS,South,West South Central,2.966,1,1,Lyme disease,Tickborne,Bacteria,0,0
+ARKANSAS,South,West South Central,2.966,1,1,Pertussis,Respiratory,Bacteria,1,7
+ARKANSAS,South,West South Central,2.966,1,1,Salmonellosis,Foodborne,Bacteria,15,37
+ARKANSAS,South,West South Central,2.966,1,1,Varicella chickenpox,Respiratory,Virus,3,23
+CALIFORNIA,West,Pacific,38.8,4,2,Campylobacteriosis,Foodborne,Bacteria,161,237
+CALIFORNIA,West,Pacific,38.8,4,2,Chlamydia,STD,Bacteria,3736,4236
+CALIFORNIA,West,Pacific,38.8,4,2,Giardiasis,Foodborne,Parasite,47,71
+CALIFORNIA,West,Pacific,38.8,4,2,Gonorrhea,STD,Bacteria,1149,1321
+CALIFORNIA,West,Pacific,38.8,4,2,Hepatitis B,Bloodborne,Virus,2,8
+CALIFORNIA,West,Pacific,38.8,4,2,Pneumococcal disease,Respiratory,Bacteria,0,0
+CALIFORNIA,West,Pacific,38.8,4,2,Legionellosis,Respiratory,Bacteria,6,18
+CALIFORNIA,West,Pacific,38.8,4,2,Lyme disease,Tickborne,Bacteria,1,4
+CALIFORNIA,West,Pacific,38.8,4,2,Pertussis,Respiratory,Bacteria,25,63
+CALIFORNIA,West,Pacific,38.8,4,2,Salmonellosis,Foodborne,Bacteria,83,190
+CALIFORNIA,West,Pacific,38.8,4,2,Varicella chickenpox,Respiratory,Virus,1,4
+COLORADO,West,Mountain,5.356,5,4,Campylobacteriosis,Foodborne,Bacteria,0,40
+COLORADO,West,Mountain,5.356,5,4,Chlamydia,STD,Bacteria,453,826
+COLORADO,West,Mountain,5.356,5,4,Giardiasis,Foodborne,Parasite,0,17
+COLORADO,West,Mountain,5.356,5,4,Gonorrhea,STD,Bacteria,97,253
+COLORADO,West,Mountain,5.356,5,4,Hepatitis B,Bloodborne,Virus,0,4
+COLORADO,West,Mountain,5.356,5,4,Pneumococcal disease,Respiratory,Bacteria,0,21
+COLORADO,West,Mountain,5.356,5,4,Legionellosis,Respiratory,Bacteria,0,7
+COLORADO,West,Mountain,5.356,5,4,Lyme disease,Tickborne,Bacteria,0,0
+COLORADO,West,Mountain,5.356,5,4,Pertussis,Respiratory,Bacteria,14,26
+COLORADO,West,Mountain,5.356,5,4,Salmonellosis,Foodborne,Bacteria,0,30
+COLORADO,West,Mountain,5.356,5,4,Varicella chickenpox,Respiratory,Virus,0,12
+CONNECTICUT,Northeast,New England,3.597,5,5,Campylobacteriosis,Foodborne,Bacteria,11,33
+CONNECTICUT,Northeast,New England,3.597,5,5,Chlamydia,STD,Bacteria,240,484
+CONNECTICUT,Northeast,New England,3.597,5,5,Giardiasis,Foodborne,Parasite,4,9
+CONNECTICUT,Northeast,New England,3.597,5,5,Gonorrhea,STD,Bacteria,44,99
+CONNECTICUT,Northeast,New England,3.597,5,5,Hepatitis B,Bloodborne,Virus,0,1
+CONNECTICUT,Northeast,New England,3.597,5,5,Pneumococcal disease,Respiratory,Bacteria,4,9
+CONNECTICUT,Northeast,New England,3.597,5,5,Legionellosis,Respiratory,Bacteria,1,3
+CONNECTICUT,Northeast,New England,3.597,5,5,Lyme disease,Tickborne,Bacteria,25,86
+CONNECTICUT,Northeast,New England,3.597,5,5,Pertussis,Respiratory,Bacteria,1,6
+CONNECTICUT,Northeast,New England,3.597,5,5,Salmonellosis,Foodborne,Bacteria,8,22
+CONNECTICUT,Northeast,New England,3.597,5,5,Varicella chickenpox,Respiratory,Virus,3,10
+DELAWARE,South,South Atlantic,0.936,2,4,Campylobacteriosis,Foodborne,Bacteria,2,7
+DELAWARE,South,South Atlantic,0.936,2,4,Chlamydia,STD,Bacteria,92,150
+DELAWARE,South,South Atlantic,0.936,2,4,Giardiasis,Foodborne,Parasite,0,3
+DELAWARE,South,South Atlantic,0.936,2,4,Gonorrhea,STD,Bacteria,30,45
+DELAWARE,South,South Atlantic,0.936,2,4,Hepatitis B,Bloodborne,Virus,0,1
+DELAWARE,South,South Atlantic,0.936,2,4,Pneumococcal disease,Respiratory,Bacteria,1,5
+DELAWARE,South,South Atlantic,0.936,2,4,Legionellosis,Respiratory,Bacteria,0,3
+DELAWARE,South,South Atlantic,0.936,2,4,Lyme disease,Tickborne,Bacteria,8,22
+DELAWARE,South,South Atlantic,0.936,2,4,Pertussis,Respiratory,Bacteria,0,3
+DELAWARE,South,South Atlantic,0.936,2,4,Salmonellosis,Foodborne,Bacteria,2,11
+DELAWARE,South,South Atlantic,0.936,2,4,Varicella chickenpox,Respiratory,Virus,0,2
+FLORIDA,South,South Atlantic,19.89,2,2,Campylobacteriosis,Foodborne,Bacteria,48,83
+FLORIDA,South,South Atlantic,19.89,2,2,Chlamydia,STD,Bacteria,1835,2249
+FLORIDA,South,South Atlantic,19.89,2,2,Giardiasis,Foodborne,Parasite,22,53
+FLORIDA,South,South Atlantic,19.89,2,2,Gonorrhea,STD,Bacteria,503,727
+FLORIDA,South,South Atlantic,19.89,2,2,Hepatitis B,Bloodborne,Virus,10,16
+FLORIDA,South,South Atlantic,19.89,2,2,Pneumococcal disease,Respiratory,Bacteria,10,59
+FLORIDA,South,South Atlantic,19.89,2,2,Legionellosis,Respiratory,Bacteria,5,12
+FLORIDA,South,South Atlantic,19.89,2,2,Lyme disease,Tickborne,Bacteria,3,14
+FLORIDA,South,South Atlantic,19.89,2,2,Pertussis,Respiratory,Bacteria,7,15
+FLORIDA,South,South Atlantic,19.89,2,2,Salmonellosis,Foodborne,Bacteria,111,189
+FLORIDA,South,South Atlantic,19.89,2,2,Varicella chickenpox,Respiratory,Virus,15,39
+GEORGIA,South,South Atlantic,10.1,2,1,Campylobacteriosis,Foodborne,Bacteria,18,32
+GEORGIA,South,South Atlantic,10.1,2,1,Chlamydia,STD,Bacteria,936,1288
+GEORGIA,South,South Atlantic,10.1,2,1,Giardiasis,Foodborne,Parasite,12,34
+GEORGIA,South,South Atlantic,10.1,2,1,Gonorrhea,STD,Bacteria,282,364
+GEORGIA,South,South Atlantic,10.1,2,1,Hepatitis B,Bloodborne,Virus,1,6
+GEORGIA,South,South Atlantic,10.1,2,1,Pneumococcal disease,Respiratory,Bacteria,17,37
+GEORGIA,South,South Atlantic,10.1,2,1,Legionellosis,Respiratory,Bacteria,2,7
+GEORGIA,South,South Atlantic,10.1,2,1,Lyme disease,Tickborne,Bacteria,0,1
+GEORGIA,South,South Atlantic,10.1,2,1,Pertussis,Respiratory,Bacteria,4,16
+GEORGIA,South,South Atlantic,10.1,2,1,Salmonellosis,Foodborne,Bacteria,36,85
+GEORGIA,South,South Atlantic,10.1,2,1,Varicella chickenpox,Respiratory,Virus,2,8
+HAWAII,West,Pacific,1.42,5,5,Campylobacteriosis,Foodborne,Bacteria,10,25
+HAWAII,West,Pacific,1.42,5,5,Chlamydia,STD,Bacteria,131,162
+HAWAII,West,Pacific,1.42,5,5,Giardiasis,Foodborne,Parasite,0,4
+HAWAII,West,Pacific,1.42,5,5,Gonorrhea,STD,Bacteria,23,46
+HAWAII,West,Pacific,1.42,5,5,Hepatitis B,Bloodborne,Virus,0,1
+HAWAII,West,Pacific,1.42,5,5,Pneumococcal disease,Respiratory,Bacteria,1,6
+HAWAII,West,Pacific,1.42,5,5,Legionellosis,Respiratory,Bacteria,0,1
+HAWAII,West,Pacific,1.42,5,5,Lyme disease,Tickborne,Bacteria,0,0
+HAWAII,West,Pacific,1.42,5,5,Pertussis,Respiratory,Bacteria,1,5
+HAWAII,West,Pacific,1.42,5,5,Salmonellosis,Foodborne,Bacteria,5,12
+HAWAII,West,Pacific,1.42,5,5,Varicella chickenpox,Respiratory,Virus,1,5
+IDAHO,West,Mountain,1.634,4,3,Campylobacteriosis,Foodborne,Bacteria,8,20
+IDAHO,West,Mountain,1.634,4,3,Chlamydia,STD,Bacteria,112,211
+IDAHO,West,Mountain,1.634,4,3,Giardiasis,Foodborne,Parasite,3,13
+IDAHO,West,Mountain,1.634,4,3,Gonorrhea,STD,Bacteria,11,36
+IDAHO,West,Mountain,1.634,4,3,Hepatitis B,Bloodborne,Virus,0,1
+IDAHO,West,Mountain,1.634,4,3,Pneumococcal disease,Respiratory,Bacteria,0,0
+IDAHO,West,Mountain,1.634,4,3,Legionellosis,Respiratory,Bacteria,0,1
+IDAHO,West,Mountain,1.634,4,3,Lyme disease,Tickborne,Bacteria,0,3
+IDAHO,West,Mountain,1.634,4,3,Pertussis,Respiratory,Bacteria,1,8
+IDAHO,West,Mountain,1.634,4,3,Salmonellosis,Foodborne,Bacteria,4,13
+IDAHO,West,Mountain,1.634,4,3,Varicella chickenpox,Respiratory,Virus,0,0
+ILLINOIS,Midwest,East North Central,12.88,3,3,Campylobacteriosis,Foodborne,Bacteria,23,63
+ILLINOIS,Midwest,East North Central,12.88,3,3,Chlamydia,STD,Bacteria,1067,1558
+ILLINOIS,Midwest,East North Central,12.88,3,3,Giardiasis,Foodborne,Parasite,0,0
+ILLINOIS,Midwest,East North Central,12.88,3,3,Gonorrhea,STD,Bacteria,254,420
+ILLINOIS,Midwest,East North Central,12.88,3,3,Hepatitis B,Bloodborne,Virus,0,2
+ILLINOIS,Midwest,East North Central,12.88,3,3,Pneumococcal disease,Respiratory,Bacteria,0,0
+ILLINOIS,Midwest,East North Central,12.88,3,3,Legionellosis,Respiratory,Bacteria,4,48
+ILLINOIS,Midwest,East North Central,12.88,3,3,Lyme disease,Tickborne,Bacteria,2,22
+ILLINOIS,Midwest,East North Central,12.88,3,3,Pertussis,Respiratory,Bacteria,16,31
+ILLINOIS,Midwest,East North Central,12.88,3,3,Salmonellosis,Foodborne,Bacteria,30,66
+ILLINOIS,Midwest,East North Central,12.88,3,3,Varicella chickenpox,Respiratory,Virus,8,19
+INDIANA,Midwest,East North Central,6.597,1,3,Campylobacteriosis,Foodborne,Bacteria,15,27
+INDIANA,Midwest,East North Central,6.597,1,3,Chlamydia,STD,Bacteria,595,1223
+INDIANA,Midwest,East North Central,6.597,1,3,Giardiasis,Foodborne,Parasite,3,9
+INDIANA,Midwest,East North Central,6.597,1,3,Gonorrhea,STD,Bacteria,171,304
+INDIANA,Midwest,East North Central,6.597,1,3,Hepatitis B,Bloodborne,Virus,1,5
+INDIANA,Midwest,East North Central,6.597,1,3,Pneumococcal disease,Respiratory,Bacteria,11,30
+INDIANA,Midwest,East North Central,6.597,1,3,Legionellosis,Respiratory,Bacteria,2,11
+INDIANA,Midwest,East North Central,6.597,1,3,Lyme disease,Tickborne,Bacteria,1,12
+INDIANA,Midwest,East North Central,6.597,1,3,Pertussis,Respiratory,Bacteria,3,9
+INDIANA,Midwest,East North Central,6.597,1,3,Salmonellosis,Foodborne,Bacteria,12,22
+INDIANA,Midwest,East North Central,6.597,1,3,Varicella chickenpox,Respiratory,Virus,3,9
+IOWA,Midwest,West North Central,3.107,3,4,Campylobacteriosis,Foodborne,Bacteria,16,37
+IOWA,Midwest,West North Central,3.107,3,4,Chlamydia,STD,Bacteria,245,282
+IOWA,Midwest,West North Central,3.107,3,4,Giardiasis,Foodborne,Parasite,4,15
+IOWA,Midwest,West North Central,3.107,3,4,Gonorrhea,STD,Bacteria,48,67
+IOWA,Midwest,West North Central,3.107,3,4,Hepatitis B,Bloodborne,Virus,0,2
+IOWA,Midwest,West North Central,3.107,3,4,Pneumococcal disease,Respiratory,Bacteria,0,0
+IOWA,Midwest,West North Central,3.107,3,4,Legionellosis,Respiratory,Bacteria,0,3
+IOWA,Midwest,West North Central,3.107,3,4,Lyme disease,Tickborne,Bacteria,2,19
+IOWA,Midwest,West North Central,3.107,3,4,Pertussis,Respiratory,Bacteria,3,11
+IOWA,Midwest,West North Central,3.107,3,4,Salmonellosis,Foodborne,Bacteria,11,57
+IOWA,Midwest,West North Central,3.107,3,4,Varicella chickenpox,Respiratory,Virus,0,0
+KANSAS,Midwest,West North Central,2.904,3,4,Campylobacteriosis,Foodborne,Bacteria,11,25
+KANSAS,Midwest,West North Central,2.904,3,4,Chlamydia,STD,Bacteria,224,297
+KANSAS,Midwest,West North Central,2.904,3,4,Giardiasis,Foodborne,Parasite,2,7
+KANSAS,Midwest,West North Central,2.904,3,4,Gonorrhea,STD,Bacteria,53,76
+KANSAS,Midwest,West North Central,2.904,3,4,Hepatitis B,Bloodborne,Virus,0,2
+KANSAS,Midwest,West North Central,2.904,3,4,Pneumococcal disease,Respiratory,Bacteria,4,9
+KANSAS,Midwest,West North Central,2.904,3,4,Legionellosis,Respiratory,Bacteria,0,4
+KANSAS,Midwest,West North Central,2.904,3,4,Lyme disease,Tickborne,Bacteria,0,3
+KANSAS,Midwest,West North Central,2.904,3,4,Pertussis,Respiratory,Bacteria,2,11
+KANSAS,Midwest,West North Central,2.904,3,4,Salmonellosis,Foodborne,Bacteria,8,25
+KANSAS,Midwest,West North Central,2.904,3,4,Varicella chickenpox,Respiratory,Virus,0,12
+KENTUCKY,South,East South Central,4.413,1,1,Campylobacteriosis,Foodborne,Bacteria,13,35
+KENTUCKY,South,East South Central,4.413,1,1,Chlamydia,STD,Bacteria,305,1462
+KENTUCKY,South,East South Central,4.413,1,1,Giardiasis,Foodborne,Parasite,0,0
+KENTUCKY,South,East South Central,4.413,1,1,Gonorrhea,STD,Bacteria,96,405
+KENTUCKY,South,East South Central,4.413,1,1,Hepatitis B,Bloodborne,Virus,1,9
+KENTUCKY,South,East South Central,4.413,1,1,Pneumococcal disease,Respiratory,Bacteria,4,11
+KENTUCKY,South,East South Central,4.413,1,1,Legionellosis,Respiratory,Bacteria,1,4
+KENTUCKY,South,East South Central,4.413,1,1,Lyme disease,Tickborne,Bacteria,0,4
+KENTUCKY,South,East South Central,4.413,1,1,Pertussis,Respiratory,Bacteria,7,27
+KENTUCKY,South,East South Central,4.413,1,1,Salmonellosis,Foodborne,Bacteria,9,77
+KENTUCKY,South,East South Central,4.413,1,1,Varicella chickenpox,Respiratory,Virus,0,0
+LOUISIANA,South,West South Central,4.65,1,1,Campylobacteriosis,Foodborne,Bacteria,8,21
+LOUISIANA,South,West South Central,4.65,1,1,Chlamydia,STD,Bacteria,572,3041
+LOUISIANA,South,West South Central,4.65,1,1,Giardiasis,Foodborne,Parasite,3,12
+LOUISIANA,South,West South Central,4.65,1,1,Gonorrhea,STD,Bacteria,184,1077
+LOUISIANA,South,West South Central,4.65,1,1,Hepatitis B,Bloodborne,Virus,1,7
+LOUISIANA,South,West South Central,4.65,1,1,Pneumococcal disease,Respiratory,Bacteria,6,16
+LOUISIANA,South,West South Central,4.65,1,1,Legionellosis,Respiratory,Bacteria,0,3
+LOUISIANA,South,West South Central,4.65,1,1,Lyme disease,Tickborne,Bacteria,0,0
+LOUISIANA,South,West South Central,4.65,1,1,Pertussis,Respiratory,Bacteria,1,5
+LOUISIANA,South,West South Central,4.65,1,1,Salmonellosis,Foodborne,Bacteria,20,60
+LOUISIANA,South,West South Central,4.65,1,1,Varicella chickenpox,Respiratory,Virus,1,21
+MAINE,Northeast,New England,1.33,4,3,Campylobacteriosis,Foodborne,Bacteria,5,11
+MAINE,Northeast,New England,1.33,4,3,Chlamydia,STD,Bacteria,76,134
+MAINE,Northeast,New England,1.33,4,3,Giardiasis,Foodborne,Parasite,2,10
+MAINE,Northeast,New England,1.33,4,3,Gonorrhea,STD,Bacteria,10,20
+MAINE,Northeast,New England,1.33,4,3,Hepatitis B,Bloodborne,Virus,1,3
+MAINE,Northeast,New England,1.33,4,3,Pneumococcal disease,Respiratory,Bacteria,2,9
+MAINE,Northeast,New England,1.33,4,3,Legionellosis,Respiratory,Bacteria,0,2
+MAINE,Northeast,New England,1.33,4,3,Lyme disease,Tickborne,Bacteria,14,71
+MAINE,Northeast,New England,1.33,4,3,Pertussis,Respiratory,Bacteria,4,12
+MAINE,Northeast,New England,1.33,4,3,Salmonellosis,Foodborne,Bacteria,2,7
+MAINE,Northeast,New England,1.33,4,3,Varicella chickenpox,Respiratory,Virus,5,9
+MARYLAND,South,South Atlantic,5.976,4,5,Campylobacteriosis,Foodborne,Bacteria,14,31
+MARYLAND,South,South Atlantic,5.976,4,5,Chlamydia,STD,Bacteria,602,1033
+MARYLAND,South,South Atlantic,5.976,4,5,Giardiasis,Foodborne,Parasite,4,13
+MARYLAND,South,South Atlantic,5.976,4,5,Gonorrhea,STD,Bacteria,158,252
+MARYLAND,South,South Atlantic,5.976,4,5,Hepatitis B,Bloodborne,Virus,0,4
+MARYLAND,South,South Atlantic,5.976,4,5,Pneumococcal disease,Respiratory,Bacteria,8,21
+MARYLAND,South,South Atlantic,5.976,4,5,Legionellosis,Respiratory,Bacteria,2,9
+MARYLAND,South,South Atlantic,5.976,4,5,Lyme disease,Tickborne,Bacteria,27,91
+MARYLAND,South,South Atlantic,5.976,4,5,Pertussis,Respiratory,Bacteria,2,7
+MARYLAND,South,South Atlantic,5.976,4,5,Salmonellosis,Foodborne,Bacteria,15,37
+MARYLAND,South,South Atlantic,5.976,4,5,Varicella chickenpox,Respiratory,Virus,0,0
+MASSACHUSETTS,Northeast,New England,6.745,5,5,Campylobacteriosis,Foodborne,Bacteria,27,42
+MASSACHUSETTS,Northeast,New England,6.745,5,5,Chlamydia,STD,Bacteria,495,588
+MASSACHUSETTS,Northeast,New England,6.745,5,5,Giardiasis,Foodborne,Parasite,11,26
+MASSACHUSETTS,Northeast,New England,6.745,5,5,Gonorrhea,STD,Bacteria,84,107
+MASSACHUSETTS,Northeast,New England,6.745,5,5,Hepatitis B,Bloodborne,Virus,0,3
+MASSACHUSETTS,Northeast,New England,6.745,5,5,Pneumococcal disease,Respiratory,Bacteria,10,20
+MASSACHUSETTS,Northeast,New England,6.745,5,5,Legionellosis,Respiratory,Bacteria,2,8
+MASSACHUSETTS,Northeast,New England,6.745,5,5,Lyme disease,Tickborne,Bacteria,5,105
+MASSACHUSETTS,Northeast,New England,6.745,5,5,Pertussis,Respiratory,Bacteria,3,10
+MASSACHUSETTS,Northeast,New England,6.745,5,5,Salmonellosis,Foodborne,Bacteria,18,50
+MASSACHUSETTS,Northeast,New England,6.745,5,5,Varicella chickenpox,Respiratory,Virus,6,16
+MICHIGAN,Midwest,East North Central,9.91,2,2,Campylobacteriosis,Foodborne,Bacteria,23,42
+MICHIGAN,Midwest,East North Central,9.91,2,2,Chlamydia,STD,Bacteria,921,1182
+MICHIGAN,Midwest,East North Central,9.91,2,2,Giardiasis,Foodborne,Parasite,8,20
+MICHIGAN,Midwest,East North Central,9.91,2,2,Gonorrhea,STD,Bacteria,216,292
+MICHIGAN,Midwest,East North Central,9.91,2,2,Hepatitis B,Bloodborne,Virus,1,4
+MICHIGAN,Midwest,East North Central,9.91,2,2,Pneumococcal disease,Respiratory,Bacteria,15,46
+MICHIGAN,Midwest,East North Central,9.91,2,2,Legionellosis,Respiratory,Bacteria,2,13
+MICHIGAN,Midwest,East North Central,9.91,2,2,Lyme disease,Tickborne,Bacteria,2,14
+MICHIGAN,Midwest,East North Central,9.91,2,2,Pertussis,Respiratory,Bacteria,6,19
+MICHIGAN,Midwest,East North Central,9.91,2,2,Salmonellosis,Foodborne,Bacteria,18,37
+MICHIGAN,Midwest,East North Central,9.91,2,2,Varicella chickenpox,Respiratory,Virus,10,36
+MINNESOTA,Midwest,West North Central,5.457,5,5,Campylobacteriosis,Foodborne,Bacteria,0,47
+MINNESOTA,Midwest,West North Central,5.457,5,5,Chlamydia,STD,Bacteria,417,526
+MINNESOTA,Midwest,West North Central,5.457,5,5,Giardiasis,Foodborne,Parasite,0,31
+MINNESOTA,Midwest,West North Central,5.457,5,5,Gonorrhea,STD,Bacteria,84,123
+MINNESOTA,Midwest,West North Central,5.457,5,5,Hepatitis B,Bloodborne,Virus,0,2
+MINNESOTA,Midwest,West North Central,5.457,5,5,Pneumococcal disease,Respiratory,Bacteria,0,19
+MINNESOTA,Midwest,West North Central,5.457,5,5,Legionellosis,Respiratory,Bacteria,1,7
+MINNESOTA,Midwest,West North Central,5.457,5,5,Lyme disease,Tickborne,Bacteria,0,61
+MINNESOTA,Midwest,West North Central,5.457,5,5,Pertussis,Respiratory,Bacteria,11,27
+MINNESOTA,Midwest,West North Central,5.457,5,5,Salmonellosis,Foodborne,Bacteria,0,67
+MINNESOTA,Midwest,West North Central,5.457,5,5,Varicella chickenpox,Respiratory,Virus,6,13
+MISSISSIPPI,South,East South Central,2.994,1,1,Campylobacteriosis,Foodborne,Bacteria,4,13
+MISSISSIPPI,South,East South Central,2.994,1,1,Chlamydia,STD,Bacteria,376,655
+MISSISSIPPI,South,East South Central,2.994,1,1,Giardiasis,Foodborne,Parasite,0,0
+MISSISSIPPI,South,East South Central,2.994,1,1,Gonorrhea,STD,Bacteria,125,239
+MISSISSIPPI,South,East South Central,2.994,1,1,Hepatitis B,Bloodborne,Virus,0,3
+MISSISSIPPI,South,East South Central,2.994,1,1,Pneumococcal disease,Respiratory,Bacteria,5,12
+MISSISSIPPI,South,East South Central,2.994,1,1,Legionellosis,Respiratory,Bacteria,0,3
+MISSISSIPPI,South,East South Central,2.994,1,1,Lyme disease,Tickborne,Bacteria,0,1
+MISSISSIPPI,South,East South Central,2.994,1,1,Pertussis,Respiratory,Bacteria,0,1
+MISSISSIPPI,South,East South Central,2.994,1,1,Salmonellosis,Foodborne,Bacteria,17,49
+MISSISSIPPI,South,East South Central,2.994,1,1,Varicella chickenpox,Respiratory,Virus,0,2
+MISSOURI,Midwest,West North Central,6.064,2,3,Campylobacteriosis,Foodborne,Bacteria,0,32
+MISSOURI,Midwest,West North Central,6.064,2,3,Chlamydia,STD,Bacteria,574,688
+MISSOURI,Midwest,West North Central,6.064,2,3,Giardiasis,Foodborne,Parasite,0,12
+MISSOURI,Midwest,West North Central,6.064,2,3,Gonorrhea,STD,Bacteria,205,275
+MISSOURI,Midwest,West North Central,6.064,2,3,Hepatitis B,Bloodborne,Virus,0,3
+MISSOURI,Midwest,West North Central,6.064,2,3,Pneumococcal disease,Respiratory,Bacteria,0,1
+MISSOURI,Midwest,West North Central,6.064,2,3,Legionellosis,Respiratory,Bacteria,2,11
+MISSOURI,Midwest,West North Central,6.064,2,3,Lyme disease,Tickborne,Bacteria,0,2
+MISSOURI,Midwest,West North Central,6.064,2,3,Pertussis,Respiratory,Bacteria,0,13
+MISSOURI,Midwest,West North Central,6.064,2,3,Salmonellosis,Foodborne,Bacteria,0,42
+MISSOURI,Midwest,West North Central,6.064,2,3,Varicella chickenpox,Respiratory,Virus,3,15
+MONTANA,West,Mountain,1.024,3,3,Campylobacteriosis,Foodborne,Bacteria,5,14
+MONTANA,West,Mountain,1.024,3,3,Chlamydia,STD,Bacteria,82,114
+MONTANA,West,Mountain,1.024,3,3,Giardiasis,Foodborne,Parasite,1,6
+MONTANA,West,Mountain,1.024,3,3,Gonorrhea,STD,Bacteria,18,30
+MONTANA,West,Mountain,1.024,3,3,Hepatitis B,Bloodborne,Virus,0,1
+MONTANA,West,Mountain,1.024,3,3,Pneumococcal disease,Respiratory,Bacteria,1,6
+MONTANA,West,Mountain,1.024,3,3,Legionellosis,Respiratory,Bacteria,0,2
+MONTANA,West,Mountain,1.024,3,3,Lyme disease,Tickborne,Bacteria,0,1
+MONTANA,West,Mountain,1.024,3,3,Pertussis,Respiratory,Bacteria,0,8
+MONTANA,West,Mountain,1.024,3,3,Salmonellosis,Foodborne,Bacteria,3,9
+MONTANA,West,Mountain,1.024,3,3,Varicella chickenpox,Respiratory,Virus,1,5
+NEBRASKA,Midwest,West North Central,1.882,5,4,Campylobacteriosis,Foodborne,Bacteria,8,26
+NEBRASKA,Midwest,West North Central,1.882,5,4,Chlamydia,STD,Bacteria,156,246
+NEBRASKA,Midwest,West North Central,1.882,5,4,Giardiasis,Foodborne,Parasite,2,9
+NEBRASKA,Midwest,West North Central,1.882,5,4,Gonorrhea,STD,Bacteria,39,63
+NEBRASKA,Midwest,West North Central,1.882,5,4,Hepatitis B,Bloodborne,Virus,0,2
+NEBRASKA,Midwest,West North Central,1.882,5,4,Pneumococcal disease,Respiratory,Bacteria,3,8
+NEBRASKA,Midwest,West North Central,1.882,5,4,Legionellosis,Respiratory,Bacteria,0,2
+NEBRASKA,Midwest,West North Central,1.882,5,4,Lyme disease,Tickborne,Bacteria,0,3
+NEBRASKA,Midwest,West North Central,1.882,5,4,Pertussis,Respiratory,Bacteria,3,13
+NEBRASKA,Midwest,West North Central,1.882,5,4,Salmonellosis,Foodborne,Bacteria,5,11
+NEBRASKA,Midwest,West North Central,1.882,5,4,Varicella chickenpox,Respiratory,Virus,0,3
+NEVADA,West,Mountain,2.839,2,5,Campylobacteriosis,Foodborne,Bacteria,2,8
+NEVADA,West,Mountain,2.839,2,5,Chlamydia,STD,Bacteria,206,319
+NEVADA,West,Mountain,2.839,2,5,Giardiasis,Foodborne,Parasite,0,4
+NEVADA,West,Mountain,2.839,2,5,Gonorrhea,STD,Bacteria,61,96
+NEVADA,West,Mountain,2.839,2,5,Hepatitis B,Bloodborne,Virus,0,2
+NEVADA,West,Mountain,2.839,2,5,Pneumococcal disease,Respiratory,Bacteria,2,10
+NEVADA,West,Mountain,2.839,2,5,Legionellosis,Respiratory,Bacteria,0,2
+NEVADA,West,Mountain,2.839,2,5,Lyme disease,Tickborne,Bacteria,0,1
+NEVADA,West,Mountain,2.839,2,5,Pertussis,Respiratory,Bacteria,0,7
+NEVADA,West,Mountain,2.839,2,5,Salmonellosis,Foodborne,Bacteria,2,14
+NEVADA,West,Mountain,2.839,2,5,Varicella chickenpox,Respiratory,Virus,0,0
+NEW HAMPSHIRE,Northeast,New England,1.327,5,5,Campylobacteriosis,Foodborne,Bacteria,4,12
+NEW HAMPSHIRE,Northeast,New England,1.327,5,5,Chlamydia,STD,Bacteria,118,225
+NEW HAMPSHIRE,Northeast,New England,1.327,5,5,Giardiasis,Foodborne,Parasite,2,6
+NEW HAMPSHIRE,Northeast,New England,1.327,5,5,Gonorrhea,STD,Bacteria,6,53
+NEW HAMPSHIRE,Northeast,New England,1.327,5,5,Hepatitis B,Bloodborne,Virus,0,0
+NEW HAMPSHIRE,Northeast,New England,1.327,5,5,Pneumococcal disease,Respiratory,Bacteria,2,6
+NEW HAMPSHIRE,Northeast,New England,1.327,5,5,Legionellosis,Respiratory,Bacteria,0,3
+NEW HAMPSHIRE,Northeast,New England,1.327,5,5,Lyme disease,Tickborne,Bacteria,5,31
+NEW HAMPSHIRE,Northeast,New England,1.327,5,5,Pertussis,Respiratory,Bacteria,1,3
+NEW HAMPSHIRE,Northeast,New England,1.327,5,5,Salmonellosis,Foodborne,Bacteria,3,9
+NEW HAMPSHIRE,Northeast,New England,1.327,5,5,Varicella chickenpox,Respiratory,Virus,0,7
+NEW JERSEY,Northeast,Middle Atlantic,8.938,5,5,Campylobacteriosis,Foodborne,Bacteria,34,56
+NEW JERSEY,Northeast,Middle Atlantic,8.938,5,5,Chlamydia,STD,Bacteria,628,1098
+NEW JERSEY,Northeast,Middle Atlantic,8.938,5,5,Giardiasis,Foodborne,Parasite,7,14
+NEW JERSEY,Northeast,Middle Atlantic,8.938,5,5,Gonorrhea,STD,Bacteria,142,290
+NEW JERSEY,Northeast,Middle Atlantic,8.938,5,5,Hepatitis B,Bloodborne,Virus,1,4
+NEW JERSEY,Northeast,Middle Atlantic,8.938,5,5,Pneumococcal disease,Respiratory,Bacteria,0,20
+NEW JERSEY,Northeast,Middle Atlantic,8.938,5,5,Legionellosis,Respiratory,Bacteria,0,13
+NEW JERSEY,Northeast,Middle Atlantic,8.938,5,5,Lyme disease,Tickborne,Bacteria,52,149
+NEW JERSEY,Northeast,Middle Atlantic,8.938,5,5,Pertussis,Respiratory,Bacteria,10,23
+NEW JERSEY,Northeast,Middle Atlantic,8.938,5,5,Salmonellosis,Foodborne,Bacteria,12,43
+NEW JERSEY,Northeast,Middle Atlantic,8.938,5,5,Varicella chickenpox,Respiratory,Virus,8,19
+NEW MEXICO,West,Mountain,2.086,2,1,Campylobacteriosis,Foodborne,Bacteria,8,18
+NEW MEXICO,West,Mountain,2.086,2,1,Chlamydia,STD,Bacteria,239,337
+NEW MEXICO,West,Mountain,2.086,2,1,Giardiasis,Foodborne,Parasite,1,4
+NEW MEXICO,West,Mountain,2.086,2,1,Gonorrhea,STD,Bacteria,55,97
+NEW MEXICO,West,Mountain,2.086,2,1,Hepatitis B,Bloodborne,Virus,0,0
+NEW MEXICO,West,Mountain,2.086,2,1,Pneumococcal disease,Respiratory,Bacteria,5,15
+NEW MEXICO,West,Mountain,2.086,2,1,Legionellosis,Respiratory,Bacteria,0,2
+NEW MEXICO,West,Mountain,2.086,2,1,Lyme disease,Tickborne,Bacteria,0,1
+NEW MEXICO,West,Mountain,2.086,2,1,Pertussis,Respiratory,Bacteria,3,13
+NEW MEXICO,West,Mountain,2.086,2,1,Salmonellosis,Foodborne,Bacteria,6,23
+NEW MEXICO,West,Mountain,2.086,2,1,Varicella chickenpox,Respiratory,Virus,1,5
+NEW YORK,Northeast,Middle Atlantic,8.406,4,2,Campylobacteriosis,Foodborne,Bacteria,32,89
+NEW YORK,Northeast,Middle Atlantic,8.406,4,2,Chlamydia,STD,Bacteria,806,1499
+NEW YORK,Northeast,Middle Atlantic,8.406,4,2,Giardiasis,Foodborne,Parasite,17,33
+NEW YORK,Northeast,Middle Atlantic,8.406,4,2,Gonorrhea,STD,Bacteria,171,344
+NEW YORK,Northeast,Middle Atlantic,8.406,4,2,Hepatitis B,Bloodborne,Virus,1,4
+NEW YORK,Northeast,Middle Atlantic,8.406,4,2,Pneumococcal disease,Respiratory,Bacteria,17,71
+NEW YORK,Northeast,Middle Atlantic,8.406,4,2,Legionellosis,Respiratory,Bacteria,6,16
+NEW YORK,Northeast,Middle Atlantic,8.406,4,2,Lyme disease,Tickborne,Bacteria,44,235
+NEW YORK,Northeast,Middle Atlantic,8.406,4,2,Pertussis,Respiratory,Bacteria,13,50
+NEW YORK,Northeast,Middle Atlantic,8.406,4,2,Salmonellosis,Foodborne,Bacteria,25,65
+NEW YORK,Northeast,Middle Atlantic,8.406,4,2,Varicella chickenpox,Respiratory,Virus,0,0
+NORTH CAROLINA,South,South Atlantic,9.944,1,2,Campylobacteriosis,Foodborne,Bacteria,24,82
+NORTH CAROLINA,South,South Atlantic,9.944,1,2,Chlamydia,STD,Bacteria,1063,2097
+NORTH CAROLINA,South,South Atlantic,9.944,1,2,Giardiasis,Foodborne,Parasite,0,0
+NORTH CAROLINA,South,South Atlantic,9.944,1,2,Gonorrhea,STD,Bacteria,325,822
+NORTH CAROLINA,South,South Atlantic,9.944,1,2,Hepatitis B,Bloodborne,Virus,2,9
+NORTH CAROLINA,South,South Atlantic,9.944,1,2,Pneumococcal disease,Respiratory,Bacteria,0,0
+NORTH CAROLINA,South,South Atlantic,9.944,1,2,Legionellosis,Respiratory,Bacteria,3,9
+NORTH CAROLINA,South,South Atlantic,9.944,1,2,Lyme disease,Tickborne,Bacteria,3,56
+NORTH CAROLINA,South,South Atlantic,9.944,1,2,Pertussis,Respiratory,Bacteria,7,31
+NORTH CAROLINA,South,South Atlantic,9.944,1,2,Salmonellosis,Foodborne,Bacteria,26,162
+NORTH CAROLINA,South,South Atlantic,9.944,1,2,Varicella chickenpox,Respiratory,Virus,0,0
+NORTH DAKOTA,Midwest,West North Central,0.739,4,1,Campylobacteriosis,Foodborne,Bacteria,2,9
+NORTH DAKOTA,Midwest,West North Central,0.739,4,1,Chlamydia,STD,Bacteria,61,91
+NORTH DAKOTA,Midwest,West North Central,0.739,4,1,Giardiasis,Foodborne,Parasite,0,4
+NORTH DAKOTA,Midwest,West North Central,0.739,4,1,Gonorrhea,STD,Bacteria,15,29
+NORTH DAKOTA,Midwest,West North Central,0.739,4,1,Hepatitis B,Bloodborne,Virus,0,1
+NORTH DAKOTA,Midwest,West North Central,0.739,4,1,Pneumococcal disease,Respiratory,Bacteria,1,5
+NORTH DAKOTA,Midwest,West North Central,0.739,4,1,Legionellosis,Respiratory,Bacteria,0,1
+NORTH DAKOTA,Midwest,West North Central,0.739,4,1,Lyme disease,Tickborne,Bacteria,0,4
+NORTH DAKOTA,Midwest,West North Central,0.739,4,1,Pertussis,Respiratory,Bacteria,1,4
+NORTH DAKOTA,Midwest,West North Central,0.739,4,1,Salmonellosis,Foodborne,Bacteria,2,8
+NORTH DAKOTA,Midwest,West North Central,0.739,4,1,Varicella chickenpox,Respiratory,Virus,0,5
+OHIO,Midwest,East North Central,11.59,2,2,Campylobacteriosis,Foodborne,Bacteria,34,63
+OHIO,Midwest,East North Central,11.59,2,2,Chlamydia,STD,Bacteria,1163,1355
+OHIO,Midwest,East North Central,11.59,2,2,Giardiasis,Foodborne,Parasite,7,15
+OHIO,Midwest,East North Central,11.59,2,2,Gonorrhea,STD,Bacteria,360,434
+OHIO,Midwest,East North Central,11.59,2,2,Hepatitis B,Bloodborne,Virus,6,12
+OHIO,Midwest,East North Central,11.59,2,2,Pneumococcal disease,Respiratory,Bacteria,20,41
+OHIO,Midwest,East North Central,11.59,2,2,Legionellosis,Respiratory,Bacteria,7,23
+OHIO,Midwest,East North Central,11.59,2,2,Lyme disease,Tickborne,Bacteria,2,16
+OHIO,Midwest,East North Central,11.59,2,2,Pertussis,Respiratory,Bacteria,18,40
+OHIO,Midwest,East North Central,11.59,2,2,Salmonellosis,Foodborne,Bacteria,27,55
+OHIO,Midwest,East North Central,11.59,2,2,Varicella chickenpox,Respiratory,Virus,9,21
+OKLAHOMA,South,West South Central,3.878,1,2,Campylobacteriosis,Foodborne,Bacteria,17,45
+OKLAHOMA,South,West South Central,3.878,1,2,Chlamydia,STD,Bacteria,315,483
+OKLAHOMA,South,West South Central,3.878,1,2,Giardiasis,Foodborne,Parasite,0,0
+OKLAHOMA,South,West South Central,3.878,1,2,Gonorrhea,STD,Bacteria,105,171
+OKLAHOMA,South,West South Central,3.878,1,2,Hepatitis B,Bloodborne,Virus,0,10
+OKLAHOMA,South,West South Central,3.878,1,2,Pneumococcal disease,Respiratory,Bacteria,0,0
+OKLAHOMA,South,West South Central,3.878,1,2,Legionellosis,Respiratory,Bacteria,0,10
+OKLAHOMA,South,West South Central,3.878,1,2,Lyme disease,Tickborne,Bacteria,0,0
+OKLAHOMA,South,West South Central,3.878,1,2,Pertussis,Respiratory,Bacteria,0,54
+OKLAHOMA,South,West South Central,3.878,1,2,Salmonellosis,Foodborne,Bacteria,15,61
+OKLAHOMA,South,West South Central,3.878,1,2,Varicella chickenpox,Respiratory,Virus,0,0
+OREGON,West,Pacific,3.97,4,2,Campylobacteriosis,Foodborne,Bacteria,16,32
+OREGON,West,Pacific,3.97,4,2,Chlamydia,STD,Bacteria,330,432
+OREGON,West,Pacific,3.97,4,2,Giardiasis,Foodborne,Parasite,6,14
+OREGON,West,Pacific,3.97,4,2,Gonorrhea,STD,Bacteria,73,102
+OREGON,West,Pacific,3.97,4,2,Hepatitis B,Bloodborne,Virus,0,2
+OREGON,West,Pacific,3.97,4,2,Pneumococcal disease,Respiratory,Bacteria,0,0
+OREGON,West,Pacific,3.97,4,2,Legionellosis,Respiratory,Bacteria,1,3
+OREGON,West,Pacific,3.97,4,2,Lyme disease,Tickborne,Bacteria,1,5
+OREGON,West,Pacific,3.97,4,2,Pertussis,Respiratory,Bacteria,5,15
+OREGON,West,Pacific,3.97,4,2,Salmonellosis,Foodborne,Bacteria,8,23
+OREGON,West,Pacific,3.97,4,2,Varicella chickenpox,Respiratory,Virus,0,0
+PENNSYLVANIA,Northeast,Middle Atlantic,12.79,3,4,Campylobacteriosis,Foodborne,Bacteria,39,78
+PENNSYLVANIA,Northeast,Middle Atlantic,12.79,3,4,Chlamydia,STD,Bacteria,1096,1381
+PENNSYLVANIA,Northeast,Middle Atlantic,12.79,3,4,Giardiasis,Foodborne,Parasite,12,22
+PENNSYLVANIA,Northeast,Middle Atlantic,12.79,3,4,Gonorrhea,STD,Bacteria,269,340
+PENNSYLVANIA,Northeast,Middle Atlantic,12.79,3,4,Hepatitis B,Bloodborne,Virus,1,4
+PENNSYLVANIA,Northeast,Middle Atlantic,12.79,3,4,Pneumococcal disease,Respiratory,Bacteria,9,24
+PENNSYLVANIA,Northeast,Middle Atlantic,12.79,3,4,Legionellosis,Respiratory,Bacteria,6,23
+PENNSYLVANIA,Northeast,Middle Atlantic,12.79,3,4,Lyme disease,Tickborne,Bacteria,131,724
+PENNSYLVANIA,Northeast,Middle Atlantic,12.79,3,4,Pertussis,Respiratory,Bacteria,21,40
+PENNSYLVANIA,Northeast,Middle Atlantic,12.79,3,4,Salmonellosis,Foodborne,Bacteria,25,56
+PENNSYLVANIA,Northeast,Middle Atlantic,12.79,3,4,Varicella chickenpox,Respiratory,Virus,14,28
+RHODE ISLAND,Northeast,New England,1.055,4,3,Campylobacteriosis,Foodborne,Bacteria,3,18
+RHODE ISLAND,Northeast,New England,1.055,4,3,Chlamydia,STD,Bacteria,71,227
+RHODE ISLAND,Northeast,New England,1.055,4,3,Giardiasis,Foodborne,Parasite,1,5
+RHODE ISLAND,Northeast,New England,1.055,4,3,Gonorrhea,STD,Bacteria,10,24
+RHODE ISLAND,Northeast,New England,1.055,4,3,Hepatitis B,Bloodborne,Virus,0,0
+RHODE ISLAND,Northeast,New England,1.055,4,3,Pneumococcal disease,Respiratory,Bacteria,0,7
+RHODE ISLAND,Northeast,New England,1.055,4,3,Legionellosis,Respiratory,Bacteria,0,6
+RHODE ISLAND,Northeast,New England,1.055,4,3,Lyme disease,Tickborne,Bacteria,13,77
+RHODE ISLAND,Northeast,New England,1.055,4,3,Pertussis,Respiratory,Bacteria,0,16
+RHODE ISLAND,Northeast,New England,1.055,4,3,Salmonellosis,Foodborne,Bacteria,2,44
+RHODE ISLAND,Northeast,New England,1.055,4,3,Varicella chickenpox,Respiratory,Virus,1,6
+SOUTH CAROLINA,South,South Atlantic,4.832,1,2,Campylobacteriosis,Foodborne,Bacteria,6,16
+SOUTH CAROLINA,South,South Atlantic,4.832,1,2,Chlamydia,STD,Bacteria,585,789
+SOUTH CAROLINA,South,South Atlantic,4.832,1,2,Giardiasis,Foodborne,Parasite,2,9
+SOUTH CAROLINA,South,South Atlantic,4.832,1,2,Gonorrhea,STD,Bacteria,177,264
+SOUTH CAROLINA,South,South Atlantic,4.832,1,2,Hepatitis B,Bloodborne,Virus,0,2
+SOUTH CAROLINA,South,South Atlantic,4.832,1,2,Pneumococcal disease,Respiratory,Bacteria,6,18
+SOUTH CAROLINA,South,South Atlantic,4.832,1,2,Legionellosis,Respiratory,Bacteria,1,3
+SOUTH CAROLINA,South,South Atlantic,4.832,1,2,Lyme disease,Tickborne,Bacteria,0,3
+SOUTH CAROLINA,South,South Atlantic,4.832,1,2,Pertussis,Respiratory,Bacteria,2,17
+SOUTH CAROLINA,South,South Atlantic,4.832,1,2,Salmonellosis,Foodborne,Bacteria,17,68
+SOUTH CAROLINA,South,South Atlantic,4.832,1,2,Varicella chickenpox,Respiratory,Virus,2,13
+SOUTH DAKOTA,Midwest,West North Central,0.853,4,3,Campylobacteriosis,Foodborne,Bacteria,8,24
+SOUTH DAKOTA,Midwest,West North Central,0.853,4,3,Chlamydia,STD,Bacteria,79,119
+SOUTH DAKOTA,Midwest,West North Central,0.853,4,3,Giardiasis,Foodborne,Parasite,2,8
+SOUTH DAKOTA,Midwest,West North Central,0.853,4,3,Gonorrhea,STD,Bacteria,21,39
+SOUTH DAKOTA,Midwest,West North Central,0.853,4,3,Hepatitis B,Bloodborne,Virus,0,1
+SOUTH DAKOTA,Midwest,West North Central,0.853,4,3,Pneumococcal disease,Respiratory,Bacteria,2,9
+SOUTH DAKOTA,Midwest,West North Central,0.853,4,3,Legionellosis,Respiratory,Bacteria,0,2
+SOUTH DAKOTA,Midwest,West North Central,0.853,4,3,Lyme disease,Tickborne,Bacteria,0,2
+SOUTH DAKOTA,Midwest,West North Central,0.853,4,3,Pertussis,Respiratory,Bacteria,0,2
+SOUTH DAKOTA,Midwest,West North Central,0.853,4,3,Salmonellosis,Foodborne,Bacteria,3,104
+SOUTH DAKOTA,Midwest,West North Central,0.853,4,3,Varicella chickenpox,Respiratory,Virus,0,4
+TENNESSEE,South,East South Central,6.549,1,1,Campylobacteriosis,Foodborne,Bacteria,13,28
+TENNESSEE,South,East South Central,6.549,1,1,Chlamydia,STD,Bacteria,589,791
+TENNESSEE,South,East South Central,6.549,1,1,Giardiasis,Foodborne,Parasite,0,0
+TENNESSEE,South,East South Central,6.549,1,1,Gonorrhea,STD,Bacteria,172,240
+TENNESSEE,South,East South Central,6.549,1,1,Hepatitis B,Bloodborne,Virus,4,8
+TENNESSEE,South,East South Central,6.549,1,1,Pneumococcal disease,Respiratory,Bacteria,15,35
+TENNESSEE,South,East South Central,6.549,1,1,Legionellosis,Respiratory,Bacteria,2,7
+TENNESSEE,South,East South Central,6.549,1,1,Lyme disease,Tickborne,Bacteria,0,4
+TENNESSEE,South,East South Central,6.549,1,1,Pertussis,Respiratory,Bacteria,3,7
+TENNESSEE,South,East South Central,6.549,1,1,Salmonellosis,Foodborne,Bacteria,16,35
+TENNESSEE,South,East South Central,6.549,1,1,Varicella chickenpox,Respiratory,Virus,0,0
+TEXAS,South,West South Central,26.96,2,2,Campylobacteriosis,Foodborne,Bacteria,70,202
+TEXAS,South,West South Central,26.96,2,2,Chlamydia,STD,Bacteria,2763,4611
+TEXAS,South,West South Central,26.96,2,2,Giardiasis,Foodborne,Parasite,0,0
+TEXAS,South,West South Central,26.96,2,2,Gonorrhea,STD,Bacteria,805,1422
+TEXAS,South,West South Central,26.96,2,2,Hepatitis B,Bloodborne,Virus,3,12
+TEXAS,South,West South Central,26.96,2,2,Pneumococcal disease,Respiratory,Bacteria,28,217
+TEXAS,South,West South Central,26.96,2,2,Legionellosis,Respiratory,Bacteria,5,21
+TEXAS,South,West South Central,26.96,2,2,Lyme disease,Tickborne,Bacteria,1,6
+TEXAS,South,West South Central,26.96,2,2,Pertussis,Respiratory,Bacteria,25,119
+TEXAS,South,West South Central,26.96,2,2,Salmonellosis,Foodborne,Bacteria,110,387
+TEXAS,South,West South Central,26.96,2,2,Varicella chickenpox,Respiratory,Virus,23,79
+UTAH,West,Mountain,2.943,5,4,Campylobacteriosis,Foodborne,Bacteria,9,25
+UTAH,West,Mountain,2.943,5,4,Chlamydia,STD,Bacteria,183,220
+UTAH,West,Mountain,2.943,5,4,Giardiasis,Foodborne,Parasite,3,7
+UTAH,West,Mountain,2.943,5,4,Gonorrhea,STD,Bacteria,36,55
+UTAH,West,Mountain,2.943,5,4,Hepatitis B,Bloodborne,Virus,0,1
+UTAH,West,Mountain,2.943,5,4,Pneumococcal disease,Respiratory,Bacteria,4,9
+UTAH,West,Mountain,2.943,5,4,Legionellosis,Respiratory,Bacteria,0,2
+UTAH,West,Mountain,2.943,5,4,Lyme disease,Tickborne,Bacteria,0,1
+UTAH,West,Mountain,2.943,5,4,Pertussis,Respiratory,Bacteria,4,15
+UTAH,West,Mountain,2.943,5,4,Salmonellosis,Foodborne,Bacteria,7,27
+UTAH,West,Mountain,2.943,5,4,Varicella chickenpox,Respiratory,Virus,4,18
+VERMONT,Northeast,New England,0.627,5,4,Campylobacteriosis,Foodborne,Bacteria,3,11
+VERMONT,Northeast,New England,0.627,5,4,Chlamydia,STD,Bacteria,32,58
+VERMONT,Northeast,New England,0.627,5,4,Giardiasis,Foodborne,Parasite,0,0
+VERMONT,Northeast,New England,0.627,5,4,Gonorrhea,STD,Bacteria,3,8
+VERMONT,Northeast,New England,0.627,5,4,Hepatitis B,Bloodborne,Virus,0,1
+VERMONT,Northeast,New England,0.627,5,4,Pneumococcal disease,Respiratory,Bacteria,1,10
+VERMONT,Northeast,New England,0.627,5,4,Legionellosis,Respiratory,Bacteria,0,3
+VERMONT,Northeast,New England,0.627,5,4,Lyme disease,Tickborne,Bacteria,5,55
+VERMONT,Northeast,New England,0.627,5,4,Pertussis,Respiratory,Bacteria,2,8
+VERMONT,Northeast,New England,0.627,5,4,Salmonellosis,Foodborne,Bacteria,1,10
+VERMONT,Northeast,New England,0.627,5,4,Varicella chickenpox,Respiratory,Virus,0,6
+VIRGINIA,South,South Atlantic,8.326,4,5,Campylobacteriosis,Foodborne,Bacteria,27,81
+VIRGINIA,South,South Atlantic,8.326,4,5,Chlamydia,STD,Bacteria,715,1358
+VIRGINIA,South,South Atlantic,8.326,4,5,Giardiasis,Foodborne,Parasite,6,26
+VIRGINIA,South,South Atlantic,8.326,4,5,Gonorrhea,STD,Bacteria,146,776
+VIRGINIA,South,South Atlantic,8.326,4,5,Hepatitis B,Bloodborne,Virus,1,11
+VIRGINIA,South,South Atlantic,8.326,4,5,Pneumococcal disease,Respiratory,Bacteria,0,2
+VIRGINIA,South,South Atlantic,8.326,4,5,Legionellosis,Respiratory,Bacteria,3,7
+VIRGINIA,South,South Atlantic,8.326,4,5,Lyme disease,Tickborne,Bacteria,22,120
+VIRGINIA,South,South Atlantic,8.326,4,5,Pertussis,Respiratory,Bacteria,4,35
+VIRGINIA,South,South Atlantic,8.326,4,5,Salmonellosis,Foodborne,Bacteria,22,55
+VIRGINIA,South,South Atlantic,8.326,4,5,Varicella chickenpox,Respiratory,Virus,6,12
+WASHINGTON,West,Pacific,7.062,5,4,Campylobacteriosis,Foodborne,Bacteria,12,1841
+WASHINGTON,West,Pacific,7.062,5,4,Chlamydia,STD,Bacteria,473,744
+WASHINGTON,West,Pacific,7.062,5,4,Giardiasis,Foodborne,Parasite,4,601
+WASHINGTON,West,Pacific,7.062,5,4,Gonorrhea,STD,Bacteria,126,211
+WASHINGTON,West,Pacific,7.062,5,4,Hepatitis B,Bloodborne,Virus,0,34
+WASHINGTON,West,Pacific,7.062,5,4,Pneumococcal disease,Respiratory,Bacteria,0,0
+WASHINGTON,West,Pacific,7.062,5,4,Legionellosis,Respiratory,Bacteria,0,56
+WASHINGTON,West,Pacific,7.062,5,4,Lyme disease,Tickborne,Bacteria,0,24
+WASHINGTON,West,Pacific,7.062,5,4,Pertussis,Respiratory,Bacteria,5,1382
+WASHINGTON,West,Pacific,7.062,5,4,Salmonellosis,Foodborne,Bacteria,7,1035
+WASHINGTON,West,Pacific,7.062,5,4,Varicella chickenpox,Respiratory,Virus,0,0
+WEST VIRGINIA,South,South Atlantic,1.85,1,1,Campylobacteriosis,Foodborne,Bacteria,5,18
+WEST VIRGINIA,South,South Atlantic,1.85,1,1,Chlamydia,STD,Bacteria,89,186
+WEST VIRGINIA,South,South Atlantic,1.85,1,1,Giardiasis,Foodborne,Parasite,1,6
+WEST VIRGINIA,South,South Atlantic,1.85,1,1,Gonorrhea,STD,Bacteria,15,29
+WEST VIRGINIA,South,South Atlantic,1.85,1,1,Hepatitis B,Bloodborne,Virus,5,12
+WEST VIRGINIA,South,South Atlantic,1.85,1,1,Pneumococcal disease,Respiratory,Bacteria,4,17
+WEST VIRGINIA,South,South Atlantic,1.85,1,1,Legionellosis,Respiratory,Bacteria,0,3
+WEST VIRGINIA,South,South Atlantic,1.85,1,1,Lyme disease,Tickborne,Bacteria,3,24
+WEST VIRGINIA,South,South Atlantic,1.85,1,1,Pertussis,Respiratory,Bacteria,0,7
+WEST VIRGINIA,South,South Atlantic,1.85,1,1,Salmonellosis,Foodborne,Bacteria,3,9
+WEST VIRGINIA,South,South Atlantic,1.85,1,1,Varicella chickenpox,Respiratory,Virus,0,8
+WISCONSIN,Midwest,East North Central,5.758,3,4,Campylobacteriosis,Foodborne,Bacteria,27,51
+WISCONSIN,Midwest,East North Central,5.758,3,4,Chlamydia,STD,Bacteria,499,609
+WISCONSIN,Midwest,East North Central,5.758,3,4,Giardiasis,Foodborne,Parasite,8,36
+WISCONSIN,Midwest,East North Central,5.758,3,4,Gonorrhea,STD,Bacteria,119,162
+WISCONSIN,Midwest,East North Central,5.758,3,4,Hepatitis B,Bloodborne,Virus,0,1
+WISCONSIN,Midwest,East North Central,5.758,3,4,Pneumococcal disease,Respiratory,Bacteria,7,25
+WISCONSIN,Midwest,East North Central,5.758,3,4,Legionellosis,Respiratory,Bacteria,1,7
+WISCONSIN,Midwest,East North Central,5.758,3,4,Lyme disease,Tickborne,Bacteria,20,122
+WISCONSIN,Midwest,East North Central,5.758,3,4,Pertussis,Respiratory,Bacteria,20,90
+WISCONSIN,Midwest,East North Central,5.758,3,4,Salmonellosis,Foodborne,Bacteria,11,45
+WISCONSIN,Midwest,East North Central,5.758,3,4,Varicella chickenpox,Respiratory,Virus,1,13
+WYOMING,West,Mountain,0.584,3,5,Campylobacteriosis,Foodborne,Bacteria,3,8
+WYOMING,West,Mountain,0.584,3,5,Chlamydia,STD,Bacteria,37,73
+WYOMING,West,Mountain,0.584,3,5,Giardiasis,Foodborne,Parasite,0,4
+WYOMING,West,Mountain,0.584,3,5,Gonorrhea,STD,Bacteria,3,14
+WYOMING,West,Mountain,0.584,3,5,Hepatitis B,Bloodborne,Virus,0,0
+WYOMING,West,Mountain,0.584,3,5,Pneumococcal disease,Respiratory,Bacteria,0,3
+WYOMING,West,Mountain,0.584,3,5,Legionellosis,Respiratory,Bacteria,0,1
+WYOMING,West,Mountain,0.584,3,5,Lyme disease,Tickborne,Bacteria,0,0
+WYOMING,West,Mountain,0.584,3,5,Pertussis,Respiratory,Bacteria,0,4
+WYOMING,West,Mountain,0.584,3,5,Salmonellosis,Foodborne,Bacteria,1,7
+WYOMING,West,Mountain,0.584,3,5,Varicella chickenpox,Respiratory,Virus,0,3
